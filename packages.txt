@@ -1,2 +1,1 @@
 libgl1-mesa-glx
-google-generativeai==0.2.5
