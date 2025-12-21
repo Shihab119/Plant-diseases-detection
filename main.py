@@ -1470,7 +1470,7 @@ elif app_mode == "Disease Recognition":
                 if med in MEDICINE_IMAGES:
                     st.image(MEDICINE_IMAGES[med], width=300)
                 if med in MEDICINE_PAGES:
-                    st.link_button("📘 Buy Now", MEDICINE_PAGES[med])
+                    st.link_button("🛒 Buy Now", MEDICINE_PAGES[med])
 
             st.subheader("🧪 Treatment")
             for t in info["treatment"]:
