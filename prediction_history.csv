@@ -16,3 +16,4 @@ Date,Disease,Confidence,Image_Name,Region
 2025-12-22 12:08,Potato leaf late blight,55.43000030517578,potato_late.jfif,Dhaka
 2025-12-22 12:09,Potato leaf late blight,67.08000183105469,potato_late_leaf.jfif,Dhaka
 2025-12-22 12:12,Tomato Early blight leaf,85.30999755859375,tomato_early_blight.jfif,Dhaka
+2025-12-22 12:35,Tomato Early blight leaf,85.30999755859375,tomato_early_blight.jfif,Dhaka
